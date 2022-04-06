@@ -1,0 +1,11 @@
+name;path
+Comp-A;OU=Administratie,DC=thematrix,DC=local
+Comp-B;OU=Administratie,DC=thematrix,DC=local
+Comp-C;OU=Directie,DC=thematrix,DC=local
+Comp-D;OU=IT Administratie,DC=thematrix,DC=local
+Comp-E;OU=IT Administratie,DC=thematrix,DC=local
+Comp-F;OU=Ontwikkeling,DC=thematrix,DC=local
+Comp-G;OU=Ontwikkeling,DC=thematrix,DC=local
+Comp-H;OU=Verkoop,DC=thematrix,DC=local
+Comp-I;OU=Verkoop,DC=thematrix,DC=local
+Comp-J;OU=Verkoop,DC=thematrix,DC=local
